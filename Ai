@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>StudyGPT AI Tutor Generator Prompt</title>
+
+<style>
+body{
+    font-family: Arial, sans-serif;
+    background:#0f172a;
+    color:white;
+    padding:40px;
+    line-height:1.7;
+}
+
+.container{
+    max-width:1000px;
+    margin:auto;
+    background:#111827;
+    padding:30px;
+    border-radius:15px;
+    box-shadow:0 0 20px rgba(0,0,0,.3);
+}
+
+h1{
+    color:#00ff99;
+}
+
+pre{
+    white-space:pre-wrap;
+    background:#1f2937;
+    padding:20px;
+    border-radius:10px;
+    overflow:auto;
+    color:#f8fafc;
+}
+</style>
+</head>
+
+<body>
+
+<div class="container">
+
+<h1>StudyGPT AI Tutor Web App Generator Prompt</h1>
+
+<pre>
+Create a complete ChatGPT-style AI Tutor web application using only HTML, CSS, and JavaScript in a single HTML file.
+
+Requirements:
+
+- Modern ChatGPT-inspired UI/UX.
+- Dark mode design.
+- Responsive layout.
+- Left sidebar containing:
+  • New Chat
+  • Chat History
+  • Saved Notes
+  • Quiz Generator
+  • Settings
+
+Main Chat Area:
+
+- User messages
+- AI messages
+- Typing animation
+- Auto scroll
+- Message timestamps
+
+Input Area:
+
+- Text box
+- Send button
+- Voice input button
+- Clear chat button
+
+AI Tutor Features:
+
+- Answer questions clearly.
+- Explain concepts step-by-step.
+- Generate examples.
+- Generate quizzes.
+- Summarize topics.
+- Support Nursing, Medicine, Biology,
+  Mathematics, History, Computer Science,
+  and General Education.
+
+Extra Features:
+
+- Glassmorphism cards
+- Gradient effects
+- Smooth animations
+- Notification system
+- Daily study streak
+- Flashcards
+- Study planner
+- Search chats
+- Export chat as PDF
+- Save chat to LocalStorage
+- Load previous chats
+
+Dashboard Widgets:
+
+- Questions Asked
+- Study Hours
+- Quizzes Completed
+- Topics Learned
+- Accuracy Percentage
+
+Design Style:
+
+- Premium SaaS design
+- Similar to ChatGPT and Notion AI
+- Rounded corners
+- Elegant shadows
+- Professional typography
+
+Technical Requirements:
+
+- Single HTML file
+- Embedded CSS
+- Embedded JavaScript
+- No frameworks
+- Fully responsive
+- Production-quality code
+
+Generate complete working HTML, CSS, and JavaScript code.
+</pre>
+
+</div>
+
+</body>
+</html>
